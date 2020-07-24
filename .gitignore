@@ -2,3 +2,6 @@
 .vscode/settings.json
 app/__pycache__/routes.cpython-38.pyc
 .vscode/settings.json
+app/__pycache__/routes.cpython-38.pyc
+linode.txt
+app/dbconfig.py

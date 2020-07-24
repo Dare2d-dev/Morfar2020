@@ -1,2 +1,12 @@
 172.105.103.192
 Root pass: Morfar2020!
+
+To update from master
+go to home/Morfar2020
+and run:
+git pull
+
+After reboot:
+go to home/Morfar2020
+and run:
+gunicorn -w 3 app:app
